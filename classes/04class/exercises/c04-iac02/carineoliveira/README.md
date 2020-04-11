@@ -12,4 +12,4 @@
 - [output.txt](output.txt)
 
 ***
-Answer for exercise [c04-iac02](chttps://github.com/devopsacademyau/academy/blob/c41e824fb2a2c55e3a30b2371a87e3a7551b6741/classes/04class/exercises/c04-iac02/README.md)
+Answer for exercise [c04-iac02](https://github.com/devopsacademyau/academy/blob/c41e824fb2a2c55e3a30b2371a87e3a7551b6741/classes/04class/exercises/c04-iac02/README.md)
